@@ -1,0 +1,12 @@
+.md-header {
+    background-color: rgb(2, 8, 23);
+    color: white;
+}
+
+.md-nav__item a:hover {
+    color: #ffcc00;
+}
+
+.md-typeset blockquote {
+    color: inherit; /* Inherit the text color from parent elements */
+}
